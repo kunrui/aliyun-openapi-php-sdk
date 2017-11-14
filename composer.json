@@ -3,8 +3,8 @@
     "description": "Alibaba Cloud SDK for PHP",
     "license": "Apache License 2.0",
     "authors": [{
-        "name": "wudi",
-        "email": "wudi@anchent.com"
+        "name": "kunrui",
+        "email": "946667296@qq.com"
     }],
     "require": {},
     "autoload": {
