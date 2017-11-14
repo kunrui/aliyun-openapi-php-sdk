@@ -29,10 +29,6 @@ $request->setMethod("GET");
 $response = $client->getAcsResponse($request);
 print_r($response);
 ```
-## Authors && Contributors
-
-- [Zuhe]()
-- [Ma Lijie](https://github.com/malijiefoxmail)
 
 ## License
 
